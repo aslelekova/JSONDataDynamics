@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HW3.2LelekovaAS/1.0.0": {
+        "dependencies": {
+          "ClassLibraryAuthor": "1.0.0"
+        },
+        "runtime": {
+          "HW3.2LelekovaAS.dll": {}
+        }
+      },
+      "ClassLibraryAuthor/1.0.0": {
+        "runtime": {
+          "ClassLibraryAuthor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW3.2LelekovaAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryAuthor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

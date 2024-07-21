@@ -1,0 +1,12 @@
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/bin/Debug/net6.0/ClassLibraryAuthor.deps.json
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/bin/Debug/net6.0/ClassLibraryAuthor.dll
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/bin/Debug/net6.0/ClassLibraryAuthor.pdb
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/obj/Debug/net6.0/ClassLibraryAuthor.csproj.AssemblyReference.cache
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/obj/Debug/net6.0/ClassLibraryAuthor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/obj/Debug/net6.0/ClassLibraryAuthor.AssemblyInfoInputs.cache
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/obj/Debug/net6.0/ClassLibraryAuthor.AssemblyInfo.cs
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/obj/Debug/net6.0/ClassLibraryAuthor.csproj.CoreCompileInputs.cache
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/obj/Debug/net6.0/ClassLibraryAuthor.dll
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/obj/Debug/net6.0/refint/ClassLibraryAuthor.dll
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/obj/Debug/net6.0/ClassLibraryAuthor.pdb
+/Users/anastasialelekova/RiderProjects/HW3.2LelekovaAS/ClassLibraryAuthor/obj/Debug/net6.0/ref/ClassLibraryAuthor.dll
